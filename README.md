@@ -1,2 +1,3 @@
 # hello-world
-The Hello World project is a time-honored tradition in computer programming.
+
+Hongtan Du here, a girl on her way to become a code artist and a problem solver - not just programming addicts, but also versatile and nerdy.
